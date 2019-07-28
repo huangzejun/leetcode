@@ -8,5 +8,6 @@
 	<classpathentry kind="lib" path="D:/workspace/CTBT/WebContent/WEB-INF/lib/jackson-databind-2.4.1.jar"/>
 	<classpathentry kind="lib" path="D:/workspace/CTBT/WebContent/WEB-INF/lib/jandex-1.1.0.Final.jar"/>
 	<classpathentry kind="lib" path="D:/workspace/CTBT/WebContent/WEB-INF/lib/jasypt-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Tomcat/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
